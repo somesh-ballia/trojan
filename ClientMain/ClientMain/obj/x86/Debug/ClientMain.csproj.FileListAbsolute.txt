@@ -1,0 +1,39 @@
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\bin\Debug\ClientMain.exe
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\bin\Debug\ClientMain.pdb
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.Form1.resources
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.Properties.Resources.resources
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.exe
+c:\users\akshay\documents\visual studio 2010\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.pdb
+D:\Documents\College\Projects\ClientMain\ClientMain\bin\Debug\ClientMain.exe
+D:\Documents\College\Projects\ClientMain\ClientMain\bin\Debug\ClientMain.pdb
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.ClientMain.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.FileManager.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.KeyLogger.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.ProcessManager.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.Properties.Resources.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.SnapshotGrabber.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.exe
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.pdb
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.CommandPrompt.resources
+D:\Documents\College\Projects\ClientMain\ClientMain\obj\x86\Debug\ClientMain.About.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.exe
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.pdb
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\bin\Debug\ClientMain.exe
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\bin\Debug\ClientMain.pdb
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.About.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.ClientMain.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.CommandPrompt.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.FileManager.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.KeyLogger.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.ProcessManager.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.Properties.Resources.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\ClientMain.SnapshotGrabber.resources
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\1 My Major Project\Code\ClientMain\ClientMain\obj\x86\Debug\GenerateResource.write.1.tlog

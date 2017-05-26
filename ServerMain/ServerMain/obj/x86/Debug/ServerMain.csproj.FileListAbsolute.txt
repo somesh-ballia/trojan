@@ -1,0 +1,25 @@
+D:\Documents\College\Projects\ServerMain\ServerMain\bin\Debug\ServerMain.exe
+D:\Documents\College\Projects\ServerMain\ServerMain\bin\Debug\ServerMain.pdb
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\ServerMain.ServerMain.resources
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\ServerMain.Properties.Resources.resources
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\ServerMain.exe
+D:\Documents\College\Projects\ServerMain\ServerMain\obj\x86\Debug\ServerMain.pdb
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\bin\Debug\ServerMain.exe
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\bin\Debug\ServerMain.pdb
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.ServerMain.resources
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.Properties.Resources.resources
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.exe
+D:\Project\1 My Major Project\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.pdb
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.exe
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.pdb
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\bin\Debug\ServerMain.exe
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\bin\Debug\ServerMain.pdb
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.ServerMain.resources
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.Properties.Resources.resources
+F:\Project\1 Trojan Program\Code\ServerMain\ServerMain\obj\x86\Debug\ServerMain.csproj.GenerateResource.Cache

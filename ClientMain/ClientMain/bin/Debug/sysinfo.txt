@@ -1,0 +1,548 @@
+Caption: Computer System Product
+IdentifyingNumber: JG3Q7BS
+Name: XPS L501X  
+Vendor: Dell Inc.
+
+-----
+AddressWidth: 64
+Caption: Intel64 Family 6 Model 30 Stepping 5
+L2CacheSize: 1024
+L3CacheSize: 6144
+MaxClockSpeed: 1734
+Name: Intel(R) Core(TM) i7 CPU       Q 740  @ 1.73GHz
+NumberOfCores: 4
+NumberOfLogicalProcessors: 8
+
+-----
+BankLabel: 
+Capacity: 4294967296
+DataWidth: 64
+Manufacturer: 80AD            
+SerialNumber: 5B44E26E        
+Speed: 1333
+
+BankLabel: 
+Capacity: 4294967296
+DataWidth: 64
+Manufacturer: 80AD            
+SerialNumber: 0872861C        
+Speed: 1333
+
+-----
+AdapterDACType: Integrated RAMDAC
+AdapterRAM: 2147483648
+Caption: NVIDIA GeForce GT 435M 
+DriverVersion: 8.17.12.9610
+Name: NVIDIA GeForce GT 435M 
+
+-----
+Caption: NVIDIA High Definition Audio
+Name: NVIDIA High Definition Audio
+
+Caption: NVIDIA High Definition Audio
+Name: NVIDIA High Definition Audio
+
+Caption: Realtek High Definition Audio
+Name: Realtek High Definition Audio
+
+Caption: NVIDIA High Definition Audio
+Name: NVIDIA High Definition Audio
+
+Caption: NVIDIA High Definition Audio
+Name: NVIDIA High Definition Audio
+
+Caption: Bluetooth Hands-free Audio
+Name: Bluetooth Hands-free Audio
+
+-----
+Caption: Renesas Electronics USB 3.0 Host Controller
+Name: Renesas Electronics USB 3.0 Host Controller
+
+Caption: Intel(R) 5 Series/3400 Series Chipset Family USB Enhanced Host Controller - 3B34
+Name: Intel(R) 5 Series/3400 Series Chipset Family USB Enhanced Host Controller - 3B34
+
+Caption: Intel(R) 5 Series/3400 Series Chipset Family USB Enhanced Host Controller - 3B3C
+Name: Intel(R) 5 Series/3400 Series Chipset Family USB Enhanced Host Controller - 3B3C
+
+-----
+Caption: MagicISO SCSI Host Controller
+DriverName: mcdbus
+Manufacturer: MagicISO, Inc.
+Name: MagicISO SCSI Host Controller
+
+-----
+Caption: Intel(R) 5 Series 6 Port SATA AHCI Controller
+DeviceID: PCI\VEN_8086&DEV_3B2F&SUBSYS_046E1028&REV_06\3&11583659&0&FA
+Name: Intel(R) 5 Series 6 Port SATA AHCI Controller
+
+-----
+CapabilityDescriptions: Copies Color Duplex Collate 
+Caption: Microsoft XPS Document Writer
+Default: True
+Network: False
+PortName: XPSPort:
+SpoolEnabled: True
+
+CapabilityDescriptions: Color Duplex 
+Caption: Fax
+Default: False
+Network: False
+PortName: SHRFAX:
+SpoolEnabled: True
+
+-----
+BIOSVersion: DELL   - 6040000 Ver 1.00 BIOS A07 PARTTBLb 
+Manufacturer: Dell Inc.
+Name: Ver 1.00 BIOS A07 PARTTBLb
+SerialNumber: JG3Q7BS
+SMBIOSBIOSVersion: A07
+
+-----
+Name: Google Talk Plugin
+Version: 2.8.5.6620
+
+Name: Visual Prolog 7.3 Personal Edition
+Version: 7.3.0.7303
+
+Name: JavaFX 2.0.2 (64-bit)
+Version: 2.0.2
+
+Name: JavaFX 2.0.2 SDK
+Version: 2.0.2
+
+Name: JavaFX 2.0.2 SDK (64-bit)
+Version: 2.0.2
+
+Name: Microsoft Office Enterprise 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office OneNote MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Groove Setup Metadata MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office InfoPath MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office 2003 Web Components
+Version: 12.0.6213.1000
+
+Name: Microsoft Office Access MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Shared Setup Metadata MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Excel MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Access Setup Metadata MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office PowerPoint MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Publisher MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Outlook MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Office 64-bit Components 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Shared 64-bit MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Groove MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Word MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Proofing (English) 2007
+Version: 12.0.4518.1014
+
+Name: Microsoft Office Shared MUI (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Proof (English) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Proof (Spanish) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Office Proof (French) 2007
+Version: 12.0.6612.1000
+
+Name: Microsoft Application Error Reporting
+Version: 12.0.6012.5000
+
+Name: Microsoft Application Error Reporting
+Version: 12.0.6015.5000
+
+Name: Microsoft Office File Validation Add-In
+Version: 14.0.5130.5003
+
+Name: Microsoft Visual Studio 2010 ADO.NET Entity Framework Tools
+Version: 10.0.40219
+
+Name: Microsoft ASP.NET MVC 2
+Version: 2.0.50217.0
+
+Name: Microsoft Help Viewer 1.1
+Version: 1.1.40219
+
+Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4974
+Version: 9.0.30729.4974
+
+Name: Microsoft Antimalware
+Version: 3.0.8402.2
+
+Name: Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+Version: 10.0.31010
+
+Name: Microsoft Security Client
+Version: 2.1.1116.0
+
+Name: Samsung Kies
+Version: 2.1.0.11112_41
+
+Name: Adobe Setup
+Version: 2.0
+
+Name: Adobe Bridge CS4
+Version: 3
+
+Name: ActivePerl 5.14.1 Build 1401 (64-bit)
+Version: 5.14.1401
+
+Name: Adobe Default Language CS4
+Version: 2.0
+
+Name: Adobe CSI CS4
+Version: 1
+
+Name: Microsoft SQL Server 2008 Database Engine Services
+Version: 10.0.1600.22
+
+Name: kuler
+Version: 2.0
+
+Name: Microsoft Sync Framework Runtime v1.0 SP1 (x64)
+Version: 1.0.3010.0
+
+Name: Microsoft Silverlight 4 SDK
+Version: 4.0.50826.0
+
+Name: Microsoft SQL Server 2008 Analysis Services
+Version: 10.0.1600.22
+
+Name: NVIDIA PhysX
+Version: 9.12.0213
+
+Name: Suite Shared Configuration CS4
+Version: 1.0
+
+Name: Bonjour
+Version: 3.0.0.10
+
+Name: VMware Workstation
+Version: 7.1.4.16648
+
+Name: Visual Studio 2010 Prerequisites - English
+Version: 10.0.40219
+
+Name: Apple Application Support
+Version: 2.1.6
+
+Name: Visual Studio 2010 Tools for SQL Server Compact 3.5 SP2 ENU
+Version: 4.0.8080.0
+
+Name: Microsoft Visual C++ 2010  x86 Runtime - 10.0.40219
+Version: 10.0.40219
+
+Name: Dotfuscator Software Services - Community Edition
+Version: 5.0.2500.0
+
+Name: Microsoft Visual Studio 2010 Office Developer Tools (x64)
+Version: 10.0.40219
+
+Name: Microsoft SQL Server 2008 Database Engine Shared
+Version: 10.0.1600.22
+
+Name: Microsoft SQL Server 2008 Full text search
+Version: 10.0.1600.22
+
+Name: Crystal Reports for Visual Studio
+Version: 12.51.0.240
+
+Name: Adobe AIR
+Version: 3.2.0.2070
+
+Name: Microsoft Visual C++ 2010  x64 Designtime - 10.0.30319
+Version: 10.0.30319
+
+Name: Apple Software Update
+Version: 2.1.3.127
+
+Name: Microsoft Sync Framework SDK v1.0 SP1
+Version: 1.0.3010.0
+
+Name: Adobe Media Player
+Version: 0.0.0
+
+Name: Microsoft SQL Server VSS Writer
+Version: 10.0.1600.22
+
+Name: Java(TM) 7 Update 3
+Version: 7.0.30
+
+Name: Java(TM) 7 Update 2 (64-bit)
+Version: 7.0.20
+
+Name: Java(TM) SE Development Kit 7 Update 2
+Version: 1.7.0.20
+
+Name: Java(TM) SE Development Kit 7 Update 2 (64-bit)
+Version: 1.7.0.20
+
+Name: Adobe Type Support CS4
+Version: 9.0
+
+Name: Microsoft SQL Server 2008 Common Files
+Version: 10.0.1600.22
+
+Name: Microsoft Sync Framework Services v1.0 SP1 (x64)
+Version: 1.0.3010.0
+
+Name: Microsoft Team Foundation Server 2010 Object Model - ENU
+Version: 10.0.40219
+
+Name: Adobe Service Manager Extension
+Version: 1.0
+
+Name: Apple Mobile Device Support
+Version: 4.0.0.97
+
+Name: Microsoft ASP.NET MVC 2 - Visual Studio 2010 Tools
+Version: 2.0.50217.0
+
+Name: Adobe Dreamweaver CS4
+Version: 10.0
+
+Name: Adobe Extension Manager CS4
+Version: 2.0
+
+Name: Microsoft SQL Server 2008 Database Engine Shared
+Version: 10.0.1600.22
+
+Name: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Version: 9.0.30729.6161
+
+Name: Adobe Reader 9.3
+Version: 9.3.0
+
+Name: Adobe XMP Panels CS4
+Version: 2.0
+
+Name: Adobe PDF Library Files CS4
+Version: 9.0
+
+Name: Microsoft SQL Server 2008 Common Files
+Version: 10.0.1600.22
+
+Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Version: 9.0.30729.6161
+
+Name: MSXML 4.0 SP2 (KB973688)
+Version: 4.20.9876.0
+
+Name: Microsoft Visual Studio 2010 Tools for Office Runtime (x64)
+Version: 10.0.31124
+
+Name: Microsoft Visual Studio 2010 Professional - ENU
+Version: 10.0.40219
+
+Name: Nero 8 Essentials
+Version: 8.3.417
+
+Name: Connect
+Version: 1.0.0.1
+
+Name: tools-winPre2k
+Version: 8.4.6.16648
+
+Name: tools-netware
+Version: 8.4.6.16648
+
+Name: Microsoft SQL Server 2008 RsFx Driver
+Version: 10.0.1600.22
+
+Name: swMSM
+Version: 12.0.0.1
+
+Name: Microsoft .NET Framework 4 Multi-Targeting Pack
+Version: 4.0.30319
+
+Name: Microsoft SQL Server 2008 Database Engine Services
+Version: 10.0.1600.22
+
+Name: Renesas Electronics USB 3.0 Host Controller Driver
+Version: 2.0.4.0
+
+Name: Microsoft SQL Server 2008 Reporting Services
+Version: 10.0.1600.22
+
+Name: Microsoft Sync Services for ADO.NET v2.0 SP1 (x64)
+Version: 2.0.3010.0
+
+Name: Microsoft Visual Studio 2010 Service Pack 1
+Version: 10.0.40219
+
+Name: Microsoft SQL Server 2008 Reporting Services
+Version: 10.0.1600.22
+
+Name: Web Deployment Tool
+Version: 1.1.0618
+
+Name: WIDCOMM Bluetooth Software
+Version: 6.3.0.6300
+
+Name: Microsoft SQL Server 2008 Analysis Services
+Version: 10.0.1600.22
+
+Name: Intel(R) Turbo Boost Technology Monitor
+Version: 1.0.186.6
+
+Name: Microsoft Mathematics (64-bit)
+Version: 4.0
+
+Name: WCF RIA Services V1.0 SP1
+Version: 4.1.60114.0
+
+Name: tools-linux
+Version: 8.4.6.16648
+
+Name: Microsoft Visual C++  Compilers 2010 Standard - enu - x86
+Version: 10.0.40219
+
+Name: Adobe Anchor Service CS4
+Version: 2.0
+
+Name: VCRedistSetup
+Version: 1.0.0
+
+Name: Adobe Device Central CS4
+Version: 2
+
+Name: Microsoft SOAP Toolkit 3.0
+Version: 3.0.1325.4
+
+Name: Microsoft SQL Server 2008 Native Client
+Version: 10.0.1600.22
+
+Name: tools-solaris
+Version: 8.4.6.16648
+
+Name: Microsoft SQL Server 2008 Setup Support Files (English)
+Version: 10.0.1600.22
+
+Name: InstallVC90Support
+Version: 1.01.0000
+
+Name: Adobe CSI CS4 x64
+Version: 1
+
+Name: Adobe CMaps CS4
+Version: 2.0
+
+Name: Microsoft Visual C++  Compilers 2010 Standard - enu - x64
+Version: 10.0.40219
+
+Name: Microsoft .NET Framework 4 Extended
+Version: 4.0.30320
+
+Name: tools-windows
+Version: 8.4.6.16648
+
+Name: iTunes
+Version: 10.5.2.11
+
+Name: Photoshop Camera Raw
+Version: 5.0
+
+Name: Dell Support Center
+Version: 3.1.5907.23
+
+Name: Microsoft Visual F# 2.0 Runtime
+Version: 10.0.40219
+
+Name: Adobe Output Module
+Version: 2.0
+
+Name: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+Version: 9.0.30729
+
+Name: Sql Server Customer Experience Improvement Program
+Version: 10.0.1600.22
+
+Name: Microsoft Silverlight
+Version: 4.1.10111.0
+
+Name: Microsoft Silverlight 3 SDK
+Version: 3.0.40818.0
+
+Name: tools-freebsd
+Version: 8.4.6.16648
+
+Name: Microsoft Visual Studio 2010 SharePoint Developer Tools
+Version: 10.0.40219
+
+Name: MSXML 4.0 SP2 (KB954430)
+Version: 4.20.9870.0
+
+Name: Microsoft .NET Framework 4 Client Profile
+Version: 4.0.30320
+
+Name: Adobe Search for Help
+Version: 1.0
+
+Name: Adobe Update Manager CS4
+Version: 6.0.0
+
+Name: Microsoft SQL Server 2008 Browser
+Version: 10.0.1600.22
+
+Name: Microsoft Visual Studio Macro Tools
+Version: 9.0.30729
+
+Name: neroxml
+Version: 1.0.0
+
+Name: Intel(R) PROSet/Wireless WiFi Software
+Version: 13.01.1000
+
+Name: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+Version: 9.0.30729
+
+Name: Adobe ExtendScript Toolkit CS4
+Version: 3.0.0
+
+Name: JavaFX 2.0.3
+Version: 2.0.3
+
+Name: Java Auto Updater
+Version: 2.1.6.0
+
+Name: Microsoft Visual C++ 2010  x64 Runtime - 10.0.40219
+Version: 10.0.40219
+
+Name: Python 2.5.2
+Version: 2.5.2150
+
+-----
